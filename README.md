@@ -1,10 +1,12 @@
-# Row Health Campaigns Analysis
-Analysis of Row Health insurance claims
 
-The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation for 2024 campaigns. The budget is allocated to drive two primary objectives: 1) to minimize expenses,  and 2) increase conversions of Row Health’s marketing campaigns
+# Row Health Campaigns Analysis - Project Overview
+
+## The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation for 2025 campaigns. 
+Founded in 2015, Row Health is a healthcare company that focuses on providing accessible and convenient telehealth services. They recently launched a marketing campaign to increase brand awareness through varying categories. They offer a range of health solutions, including 4 different tier plans bronze, silver, gold, and platinum with varying coverage and premiums. 
+
+With a new Data Team in place, the company would like a better understanding of their audience from the marketing campaign data to reallocate resources next year. Primarily focused on two objectives 1) minimizing costs from unsuccessful campaigns and high cost per signup and 2) increasing conversion rates in campaigns. 
 
 ## Overview
-### North Star Metrics
 In order to evaluate campaign performance, we focused on the following key metrics:
 
 - **Campaign Cost:** The total cost of a campaign calculated by the number of users that signed up multiplied by the cost per signup
@@ -12,14 +14,14 @@ In order to evaluate campaign performance, we focused on the following key metri
 - **Click Through Rate:** The percentage of people that saw a campaign and clicked the link.
 
 ## Insights Deep-Dive
-Click Through Rate
+**Click Through Rate**
 - Tailored Health Plans had the largest number of impressions at 1.3 Million
 - Health For All had the least  (120k) amount of impressions but the highest click-through-rate of 36%
 - The campaign had the highest signup rate at 2.9%, leading to 3.5K signups
 - New Jersey accounts for $7.3M in Total Claims which account for more than 50% of all claims.
 - 8,200 Signups came directly from NJ indicating a high amount of conversions
 
-Campaign Cost
+**Campaign Cost**
 - Of the top 5 campaigns, Health for All had the lowest total cost of just over $2k
 - While #HealthyLiving cost 120% more for roughly the same number of signups.
 - Golden Years Security had the highest cost per signup at $124 with only 23 total signups.
@@ -27,7 +29,7 @@ Campaign Cost
 -  Health For All had the lowest cost per signup of $0.57
 - Cost per Signup is lowest in NJ at $4.10, which is significantly lower in comparison to all other leading states averaging $33.6 per signup
 
-Claim Amounts
+**Claim Amounts**
 - Compare Health Coverage had the highest average claim amount of $410 per claim, 53% higher than the average of $267
 - Compare Health Coverage has the highest total claim amount at $3.9M
 - Golden Years Security had the lowest total claim amount at $16K

@@ -54,3 +54,10 @@ Claim Amounts
 North Star Metrics
 Click Through Rate, Cost per Click, Sign up Rate, Cost per Signup. Here is access to the [full dashboard](https://public.tableau.com/app/profile/garrett.lockhart/viz/RowHealthTableau/CampaignCategoryDashboard?publish=yes)
 ![image](https://i.imgur.com/mnA7umW.png "image")
+
+## Presentation Sample
+This presentation was made for our internal teams to get a full campaign analysis and next steps, you can view the [full presentation here.](https://docs.google.com/presentation/d/1JesVXIeaTxBk5T0HHH_a-1MZY7QVmLIQYJ3ygk4BLyc/edit?usp=sharing)
+![image](https://github.com/user-attachments/assets/df2f5eee-767c-4504-91d2-07006ebc16ac)
+![image](https://github.com/user-attachments/assets/e55cf961-a37e-49c5-b5d4-9f242030dc53)
+![image](https://github.com/user-attachments/assets/f8102ce4-7a37-44a1-9138-ce4cd8ed59d7)
+

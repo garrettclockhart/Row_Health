@@ -14,13 +14,9 @@ The budget is allocated to drive two primary objectives: 1) to minimize expenses
 
 In order to evaluate campaign performance, we focused on the following key metrics:
 
-#### Campaign Cost: The total cost of a campaign calculated by the number of users that signed up multiplied by the cost per signup
-#### Claim Amount: The amount paid to customers who are insured at Row Health
-#### Click Through Rate: The percentage of people that saw a campaign and clicked the link.
-The average cost of a campaign is $1,075 with an average cost per signup of $2.18
-The average claim amount is $267 with $13.3M in claims across all customers
-The average click through rate of all campaigns is 9.46% from 8.4M impressions
-
+- **Campaign Cost:** The total cost of a campaign calculated by the number of users that signed up multiplied by the cost per signup
+- **Claim Amount:** The amount paid to customers who are insured at Row Health
+- **Click Through Rate:** The percentage of people that saw a campaign and clicked the link.
 
 ## Insights Deep-Dive
 Click Through Rate

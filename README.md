@@ -1,17 +1,10 @@
-# Row_Health
+# Row Health Campaigns Analysis
 Analysis of Row Health insurance claims
 
-
-
-
-The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation for 2024 campaigns.
-
-The budget is allocated to drive two primary objectives: 1) to minimize expenses,  and 2) increase conversions of Row Health’s marketing campaigns
+The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation for 2024 campaigns. The budget is allocated to drive two primary objectives: 1) to minimize expenses,  and 2) increase conversions of Row Health’s marketing campaigns
 
 ## Overview
-
 ### North Star Metrics
-
 In order to evaluate campaign performance, we focused on the following key metrics:
 
 - **Campaign Cost:** The total cost of a campaign calculated by the number of users that signed up multiplied by the cost per signup
@@ -41,10 +34,7 @@ Claim Amounts
 - The average out of pocket percentage of the total claim amount is 38.9%, all campaigns range from 37-44% indicating policy holders have varying levels of affordability
 - Of all states New Jersey saw the highest number of claims at 26K, followed by just 3.7K in New York
 
-
-
 ## Recommendations
-
  - **Bottom 7 Campaigns:** Reallocate $19k worth of ad spend towards high converting campaigns i.e. Health for All, #CoverageMatters, and #HealthyLiving. This reduces expenses and increases opportunity for growth in existing campaigns
  - **Health for All:** Retarget 40K potential customers who clicked on the campaign but did not signup, if those same users convert at a 3% signup rate it would lead to 1,200 new customers.
  - **#HealthyLiving:** Reduce campaign cost per signup  by focusing on the engaged audience, by doing so we could increase the conversion rate  from 9.6% to between 15% and 25%.

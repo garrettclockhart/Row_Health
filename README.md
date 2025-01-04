@@ -1,10 +1,12 @@
-
 # Row Health Campaigns Analysis - Project Overview
 
 ## The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation for 2025 campaigns. 
 Founded in 2015, Row Health is a healthcare company that focuses on providing accessible and convenient telehealth services. They recently launched a marketing campaign to increase brand awareness through varying categories. They offer a range of health solutions, including 4 different tier plans bronze, silver, gold, and platinum with varying coverage and premiums. 
 
 With a new Data Team in place, the company would like a better understanding of their audience from the marketing campaign data to reallocate resources next year. Primarily focused on two objectives 1) minimizing costs from unsuccessful campaigns and high cost per signup and 2) increasing conversion rates in campaigns. 
+## Dataset Structure
+The dataset contains 3 tables: customers, campaigns, and claims  including information about campaign performance, customer demographics, and claim data.
+![](https://i.imgur.com/94EfIm3.png)
 
 ## Overview
 In order to evaluate campaign performance, we focused on the following key metrics:
@@ -43,8 +45,7 @@ In order to evaluate campaign performance, we focused on the following key metri
  - **Campaigns by State:** Stop campaigns in states with less than 100 total signups and reallocate capital to target users in New Jersey, New York, Iowa, and North Dakota.
 
 ## Tableau Dashboard
-North Star Metrics
-Click Through Rate, Cost per Click, Sign up Rate, Cost per Signup. Here is access to the [full dashboard](https://public.tableau.com/app/profile/garrett.lockhart/viz/RowHealthTableau/CampaignCategoryDashboard?publish=yes)
+The North Star Metrics for this analysis are Click Through Rate, Cost per Click, Sign up Rate, Cost per Signup. Users have access to filter by Plan, State, and Campaign Type with focuses on the marketing metrics, signup metrics, and customer claims metrics. The interactive dashboard can be found on Tableau Public [here.](https://public.tableau.com/app/profile/garrett.lockhart/viz/RowHealthTableau/CampaignCategoryDashboard?publish=yes)
 ![image](https://i.imgur.com/mnA7umW.png "image")
 
 ## Presentation Sample

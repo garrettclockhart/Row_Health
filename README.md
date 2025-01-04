@@ -1,6 +1,7 @@
 # Row Health Campaigns Analysis - Project Overview
-
 ## The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to surface recommendations on marketing budget allocation for 2025 campaigns. 
+
+## About Row Health
 Founded in 2015, Row Health is a healthcare company that focuses on providing accessible and convenient telehealth services. They recently launched a marketing campaign to increase brand awareness through varying categories. They offer a range of health solutions, including 4 different tier plans bronze, silver, gold, and platinum with varying coverage and premiums. 
 
 With a new Data Team in place, the company would like a better understanding of their audience from the marketing campaign data to reallocate resources next year. Primarily focused on two objectives 1) minimizing costs from unsuccessful campaigns and high cost per signup and 2) increasing conversion rates in campaigns. 

@@ -6,7 +6,8 @@ Founded in 2015, Row Health is a healthcare company that focuses on providing ac
 With a new Data Team in place, the company would like a better understanding of their audience from the marketing campaign data to reallocate resources next year. Primarily focused on two objectives 1) minimizing costs from unsuccessful campaigns and high cost per signup and 2) increasing conversion rates in campaigns. 
 ## Dataset Structure
 The dataset contains 3 tables: customers, campaigns, and claims  including information about campaign performance, customer demographics, and claim data.
-![](https://i.imgur.com/94EfIm3.png)
+
+<img src="https://i.imgur.com/94EfIm3.png" alt="Description of Image" width="690" height="470" />
 
 ## Overview
 In order to evaluate campaign performance, we focused on the following key metrics:
